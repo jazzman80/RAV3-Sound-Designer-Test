@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{ae0c27b1-245e-484b-b5f8-93db5f49bfba}">
+		<property name="assetPath">
+			<value>Conic Long Echo Hall.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.0026984126984129</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a624e262-921c-4f46-a96d-0f3d065da7e6}</destination>
+		</relationship>
+	</object>
+</objects>

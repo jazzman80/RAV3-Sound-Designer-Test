@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{83561468-01af-49ef-8b0b-23c213f21c16}">
+		<property name="assetPath">
+			<value>Cement Blocks 2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.173877551020408</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a624e262-921c-4f46-a96d-0f3d065da7e6}</destination>
+		</relationship>
+	</object>
+</objects>
